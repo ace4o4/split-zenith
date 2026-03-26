@@ -2,7 +2,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using 
-# Step 2: Navigate to the pro d
+# Step 2: Navigate
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
