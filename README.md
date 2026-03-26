@@ -2,7 +2,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using 
-# Step 2: Navigate to the project dir
+# Step 2: Navigate to the project d
 
 # Step 3: Install the necessary dependencies.
 npm i
