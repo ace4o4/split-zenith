@@ -1,8 +1,6 @@
 Follow these steps:
 
 ```sh
-# Step 1: Clone the repository u
-
 sing 
 
 ```
