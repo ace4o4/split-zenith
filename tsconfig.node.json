@@ -12,6 +12,9 @@
     "moduleDetection": "force",
     "noEmit": true,
 
+
+
+    
     /* Linting */
     "strict": true,
     "noUnusedLocals": false,
