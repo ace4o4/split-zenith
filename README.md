@@ -21,7 +21,6 @@ This project is built with:
 \
 
 
-
 - Vite
 - TypeScript
 - React
