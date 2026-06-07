@@ -22,7 +22,6 @@ sing...
 
 
 
-
 This project is built with:
 
 - Vite
