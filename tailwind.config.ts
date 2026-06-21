@@ -9,7 +9,6 @@ export default {
 
 
 
-
       
       center: true,
       padding: "2rem",
