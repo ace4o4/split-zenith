@@ -5,7 +5,7 @@ export default {
   prefix: "",
   theme: {
     container: {
-    
+  
       center: true,
       padding: "2rem",
       screens: {
