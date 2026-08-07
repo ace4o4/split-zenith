@@ -4,7 +4,7 @@ export default {
     autoprefixer: {},
 
 
-sgegrghulighrueiguergfreu
+sgegrghulighrueiguergfr
 
     
   },
