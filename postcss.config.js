@@ -4,7 +4,5 @@ export default {
     autoprefixer: {},
 
 
-sgegr
-
   },
 };
